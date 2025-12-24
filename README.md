@@ -1,9 +1,9 @@
 
-| <img src="UI/visible.png" width="50"/> |  OpticScan |
+| <img src="UI/visible.png" width="50"/> |  IntelliSight |
 |----------------------------------------|-------------|
 
 
-**OpticScan** is a smart mobile application designed to help diagnose eye diseases using **Artificial Intelligence (AI)** as well as **direct consultation with doctors**. The app aims to make eye care more **accessible, reliable, and efficient** by combining the power of AI with professional medical expertise.  
+**IntelliSight** is a smart mobile application designed to help diagnose eye diseases using **Artificial Intelligence (AI)** as well as **direct consultation with doctors**. The app aims to make eye care more **accessible, reliable, and efficient** by combining the power of AI with professional medical expertise.  
 <div align="center">
   <img src="UI/screen1.png" alt="Screenshot 1" width="200"/>
   <img src="UI/screen2.png" alt="Screenshot 2" width="200"/>
@@ -19,7 +19,7 @@
 - 👨‍⚕️ **Doctor Consultation** – Get a second opinion from certified doctors to confirm or refine AI results.  
 - 📊 **Personal Health Records** – Keep track of your past diagnoses, consultation history, and reports in one secure place.  
 - 🔔 **Smart Notifications** – Receive reminders for check-ups, follow-ups, and treatment schedules.  
-- 🌐 **Accessible Anytime, Anywhere** – Designed for mobile devices, ensuring you can use OpticScan wherever you are.  
+- 🌐 **Accessible Anytime, Anywhere** – Designed for mobile devices, ensuring you can use IntelliSight wherever you are.  
 
 ---
 
@@ -27,7 +27,7 @@
 
 You can try the app by downloading the latest APK release here:  
 
-👉 [**Download OpticScan APK**](https://github.com/FaustaAkbar/OpticScan/releases/download/v1.0.0/OpticScan.apk)  
+👉 [**Download IntelliSight APK**](https://github.com/FaustaAkbar/IntelliSight/releases/download/v1.0.0/IntelliSight.apk)  
 
 *(Make sure to allow installation from unknown sources on your device settings.)*  
 
@@ -56,10 +56,10 @@ You can try the app by downloading the latest APK release here:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/optic-scan.git
+git clone https://github.com/your-username/IntelliSight.git
 
 # Navigate into the project
-cd optic-scan
+cd IntelliSight
 
 # Install dependencies
 flutter pub get
